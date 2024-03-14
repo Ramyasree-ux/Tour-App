@@ -2,7 +2,7 @@ const Header = ()=>{
     return(
         <div className="container">
             <div className="title">
-            Plan A Tour
+            PLAN A TOUR TO VISIT MONUMENTS
             </div>
           
         </div>
